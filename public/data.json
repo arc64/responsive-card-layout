@@ -1,0 +1,302 @@
+[
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image1.png",
+        "caption": "copyright by photograph",
+        "location": "Mitte",
+        "tags": [
+            {
+                "name": "Work and Economy",
+                "link": "https://liqd.net/tags/work-and-economy"
+            },
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            }
+        ],
+        "daysRemaining": 44,
+        "totalDays": 66,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image2.png",
+        "caption": "copyright by photograph",
+        "location": "Neuk\u00f6lln",
+        "tags": [
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            },
+            {
+                "name": "Culture and leisure",
+                "link": "https://liqd.net/tags/culture-and-leisure"
+            }
+        ],
+        "daysRemaining": 5,
+        "totalDays": 57,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image3.png",
+        "caption": "copyright by photograph",
+        "location": "Spandau",
+        "tags": [
+            {
+                "name": "Urban Development",
+                "link": "https://liqd.net/tags/urban-development"
+            },
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            }
+        ],
+        "daysRemaining": 14,
+        "totalDays": 243,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image1.png",
+        "caption": "copyright by photograph",
+        "location": "Friedrichshain",
+        "tags": [
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            },
+            {
+                "name": "Urban Development",
+                "link": "https://liqd.net/tags/urban-development"
+            }
+        ],
+        "daysRemaining": 56,
+        "totalDays": 250,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image2.png",
+        "caption": "copyright by photograph",
+        "location": "Mitte",
+        "tags": [
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            },
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            }
+        ],
+        "daysRemaining": 51,
+        "totalDays": 161,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image3.png",
+        "caption": "copyright by photograph",
+        "location": "Neuk\u00f6lln",
+        "tags": [
+            {
+                "name": "Urban Development",
+                "link": "https://liqd.net/tags/urban-development"
+            },
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            }
+        ],
+        "daysRemaining": 53,
+        "totalDays": 198,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image1.png",
+        "caption": "copyright by photograph",
+        "location": "Spandau",
+        "tags": [
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            },
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            }
+        ],
+        "daysRemaining": 58,
+        "totalDays": 240,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image2.png",
+        "caption": "copyright by photograph",
+        "location": "Friedrichshain",
+        "tags": [
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            },
+            {
+                "name": "Work and Economy",
+                "link": "https://liqd.net/tags/work-and-economy"
+            }
+        ],
+        "daysRemaining": 6,
+        "totalDays": 43,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image3.png",
+        "caption": "copyright by photograph",
+        "location": "Mitte",
+        "tags": [
+            {
+                "name": "Urban Development",
+                "link": "https://liqd.net/tags/urban-development"
+            },
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            }
+        ],
+        "daysRemaining": 10,
+        "totalDays": 148,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image1.png",
+        "caption": "copyright by photograph",
+        "location": "Neuk\u00f6lln",
+        "tags": [
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            },
+            {
+                "name": "Work and Economy",
+                "link": "https://liqd.net/tags/work-and-economy"
+            }
+        ],
+        "daysRemaining": 26,
+        "totalDays": 138,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image2.png",
+        "caption": "copyright by photograph",
+        "location": "Spandau",
+        "tags": [
+            {
+                "name": "Culture and leisure",
+                "link": "https://liqd.net/tags/culture-and-leisure"
+            },
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            }
+        ],
+        "daysRemaining": 12,
+        "totalDays": 183,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image3.png",
+        "caption": "copyright by photograph",
+        "location": "Friedrichshain",
+        "tags": [
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            },
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            }
+        ],
+        "daysRemaining": 21,
+        "totalDays": 48,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image1.png",
+        "caption": "copyright by photograph",
+        "location": "Mitte",
+        "tags": [
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            },
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            }
+        ],
+        "daysRemaining": 54,
+        "totalDays": 65,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image2.png",
+        "caption": "copyright by photograph",
+        "location": "Neuk\u00f6lln",
+        "tags": [
+            {
+                "name": "Education and research",
+                "link": "https://liqd.net/tags/education-and-research"
+            },
+            {
+                "name": "Children, youth and family",
+                "link": "https://liqd.net/tags/children,-youth-and-family"
+            }
+        ],
+        "daysRemaining": 15,
+        "totalDays": 63,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    },
+    {
+        "heading": "Title of an external project - Starting in future",
+        "link": "https://liqd.net/en/",
+        "image": "image3.png",
+        "caption": "copyright by photograph",
+        "location": "Spandau",
+        "tags": [
+            {
+                "name": "Sustainability",
+                "link": "https://liqd.net/tags/sustainability"
+            },
+            {
+                "name": "Urban Development",
+                "link": "https://liqd.net/tags/urban-development"
+            }
+        ],
+        "daysRemaining": 1,
+        "totalDays": 240,
+        "description": "Berlin Online Engagement: Empowering citizens to shape their city's future via digital platforms. Fostering dialogue, collaboration, and civic action for inclusivity."
+    }
+]
