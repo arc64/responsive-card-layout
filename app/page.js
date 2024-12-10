@@ -1,8 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 import styles from "./page.module.css";
+import ProjectList from "./components/projects/ProjectList";
 
 export default function Home() {
 
@@ -32,51 +32,7 @@ export default function Home() {
 
   return (
     <div className={styles.page}>
-      <ul className={styles.projectList}>
-        {data.map((project, index) => (
-          <li key={index} className={styles.projectCard}>
-              <img
-                      src={`/${project.image}`}
-                      alt=""
-                      className={styles.projectImage}
-              />
-              <small>{project.caption}</small>
-              <p>{project.location}</p>
-              <ul>
-                  {project.tags.map((tag) => (
-                  <li>
-                    <a href={tag.link} target="_blank" rel="noopener noreferrer">
-                      {tag.name}
-                    </a>
-                  </li>
-                  ))}
-              </ul>
-              <h2>
-                <a href={project.link} target="_blank" rel="noopener noreferrer">
-                  {project.heading}</a>
-              </h2>
-              <p>{project.description}</p>
-          </li>
-        ))}
-    </ul>
-
-      <main className={styles.main}>
-
-        <a
-          href="https://adhocracy.plus/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-      </main>
+      <ProjectList projects={data} />
     </div>
   );
 }
