@@ -1,0 +1,33 @@
+.toggleContainer {
+	display: flex;
+	border: 2px solid #000;
+	overflow: hidden;
+}
+
+.toggleButton {
+	display: flex;
+	flex: 1;
+	padding: 10px 20px;
+	border: none;
+	background-color: fff;
+	color: #000;
+	font-size: 1rem;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+}
+
+.toggleButton .icon {
+	margin-right: 8px;
+}
+
+.active {
+	background-color: #000;
+	color: #fff;
+}
+
+@media (max-width: 768px) {
+	.toggleContainer {
+		display: none;
+	}
+}

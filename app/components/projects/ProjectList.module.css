@@ -1,0 +1,144 @@
+.list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+}
+
+.list {
+	max-width: 45em;
+}
+
+/* Porject listing grid/list views */
+
+/* if screen is reasonably big then do a grid */
+@media (min-width: 768px) {
+	.gridView .card {
+		flex: 1 1 calc(33.333% - 16px);
+		/* 3 cards per row in grid layout */
+	}
+}
+
+/* make sure cards display horizontally when screen is small */
+@media (min-width: 768px) {
+	.listView .card {
+		display: flex;
+		flex-direction: row;
+		gap: 16px;
+		padding: 16px;
+	}
+
+	.listView .card {
+		flex: 1 1 100%;
+		/* Full-width cards in list layout */
+	}
+}
+
+.listView .card {
+	border-bottom: 1px solid #ddd;
+	padding: 16px 0;
+}
+
+.listView .card:not(:last-child) {
+	margin-bottom: 16px;
+}
+
+.listView .card:last-child {
+	border-bottom: none;
+}
+
+
+
+/* Cards */
+
+.card h2 {
+	font-size: 1rem;
+	line-height: 1.4;
+	margin-top: 1em;
+}
+
+.card p {
+	font-size: 0.95rem;
+	line-height: 1.5;
+}
+
+/* Tags */
+.tags {
+	list-style: none;
+}
+
+.tags li {
+	font-family: "Arial", "Helvetica", sans-serif;
+	font-size: 0.8rem;
+	font-weight: bold;
+	color: #000;
+	background-color: #28a745;
+	padding: 4px 8px;
+	border-radius: 12px;
+	display: inline-block;
+	margin-right: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.tags li:not(:last-child) {
+	margin-bottom: 0.5em;
+}
+
+/* Image */
+.card .image {
+	width: 100%;
+	flex: 0 0 200px;
+	height: auto;
+	overflow: hidden;
+}
+
+.caption {
+	font-size: 0.6rem;
+	color: #666;
+	/* Lighter text for captions */
+	margin-top: 0.3em;
+}
+
+/* Progress bar */
+.progress {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 12px;
+	margin: 8px 0;
+}
+
+.progress progress {
+	width: 100%;
+	height: 4px;
+	border-radius: 4px;
+	overflow: hidden;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #e0e0e0;
+}
+
+.progress progress::-webkit-progress-bar {
+	background-color: #e0e0e0;
+	border-radius: 4px;
+}
+
+.progress progress::-webkit-progress-value {
+	background-color: #28a745;
+	border-radius: 4px;
+}
+
+.progress progress::-moz-progress-bar {
+	background-color: #28a745;
+}
+
+.progress p {
+	font-size: 1rem;
+	color: #333;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
