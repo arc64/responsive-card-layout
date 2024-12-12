@@ -11,6 +11,37 @@
 	max-width: 45em;
 }
 
+/* reordering for accessibility */
+
+.list li,
+.list .content {
+	display: grid;
+}
+
+.content {
+	order: 2;
+}
+
+.visuals {
+	order: 1;
+}
+
+.image {
+	order: 1;
+}
+
+.attributes {
+	order: 2;
+}
+
+.text {
+	order: 3
+}
+
+.progress {
+	order: 4;
+}
+
 /* Porject listing grid/list views */
 
 /* if screen is reasonably big then do a grid */
@@ -89,7 +120,6 @@
 /* Image */
 .card .image {
 	width: 100%;
-	flex: 0 0 200px;
 	height: auto;
 	overflow: hidden;
 }

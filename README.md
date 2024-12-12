@@ -22,17 +22,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Individual project cards and other page elements could be separate components. As it is ProjectList and ToggleView are the only two I created.
 - Intentional lack of  alt text on images in cards as images are treated as deconration not content in this implementation.
 
-## Assumptions
-
-
-
 ## Todo:
+- [] Make card accessible
 - [] Add <section> for accessbility in cards
 - [] Font sizing and line-height to match figma designs
 - [] Image ratios to match figma designs
 - [] Make images responsive
 - [] Replace icons with designed icons
-- [] Add header to page
+- [] Add header to page, once added add skip to main content for accessibility reasons
 - [] bug: Dividing line missing below elements in mobile view
 - [x] bug: fix focus styles
 - [x] bug: misaligned progress bar in list view, add aria role
+- [ ] Test rigorously across browsers and screen readers
