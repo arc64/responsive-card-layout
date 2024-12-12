@@ -28,11 +28,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Todo:
 - [] Add <section> for accessbility in cards
-- [] Dividing line missing below elements in mobile view
 - [] Font sizing and line-height to match figma designs
 - [] Image ratios to match figma designs
 - [] Make images responsive
 - [] Replace icons with designed icons
 - [] Add header to page
-- [] bug: fix focus styles
+- [] bug: Dividing line missing below elements in mobile view
+- [x] bug: fix focus styles
 - [x] bug: misaligned progress bar in list view, add aria role
