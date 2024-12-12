@@ -3,7 +3,7 @@ import styles from "./ToggleView.module.css";
 
 export default function ToggleView({ view, onToggle }) {
 	return (
-		<div className={styles.toggleContainer}>
+		<div className={styles.toggleContainer} aria-hidden="true">
 			<button
 				className={`${styles.toggleButton} ${view === "list" ? styles.active : ""}`}
 				onClick={() => onToggle("list")}

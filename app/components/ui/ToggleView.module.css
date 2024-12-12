@@ -28,6 +28,6 @@
 
 @media (max-width: 768px) {
 	.toggleContainer {
-		display: none;
+		visibility: hidden;
 	}
 }
